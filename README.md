@@ -3,4 +3,4 @@
 
 練習
 
-VSCodeで変更
+Githubで変更
